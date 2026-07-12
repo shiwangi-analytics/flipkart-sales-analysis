@@ -6,15 +6,15 @@ This project analyzes the Superstore sales dataset using Python for data cleanin
 ---
 
 ## 🚀 Tools & Technologies
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- Power Query
-- DAX
-- Microsoft Excel
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Plotly
+Power BI
+Power Query
+DAX
+Microsoft Excel
 
 ---
 
